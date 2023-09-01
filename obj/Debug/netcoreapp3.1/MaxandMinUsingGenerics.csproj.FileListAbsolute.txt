@@ -1,0 +1,14 @@
+C:\Users\Teju Reddy\source\repos\MaxandMinUsingGenerics\MaxandMinUsingGenerics\bin\Debug\netcoreapp3.1\MaxandMinUsingGenerics.exe
+C:\Users\Teju Reddy\source\repos\MaxandMinUsingGenerics\MaxandMinUsingGenerics\bin\Debug\netcoreapp3.1\MaxandMinUsingGenerics.deps.json
+C:\Users\Teju Reddy\source\repos\MaxandMinUsingGenerics\MaxandMinUsingGenerics\bin\Debug\netcoreapp3.1\MaxandMinUsingGenerics.runtimeconfig.json
+C:\Users\Teju Reddy\source\repos\MaxandMinUsingGenerics\MaxandMinUsingGenerics\bin\Debug\netcoreapp3.1\MaxandMinUsingGenerics.runtimeconfig.dev.json
+C:\Users\Teju Reddy\source\repos\MaxandMinUsingGenerics\MaxandMinUsingGenerics\bin\Debug\netcoreapp3.1\MaxandMinUsingGenerics.dll
+C:\Users\Teju Reddy\source\repos\MaxandMinUsingGenerics\MaxandMinUsingGenerics\bin\Debug\netcoreapp3.1\MaxandMinUsingGenerics.pdb
+C:\Users\Teju Reddy\source\repos\MaxandMinUsingGenerics\MaxandMinUsingGenerics\obj\Debug\netcoreapp3.1\MaxandMinUsingGenerics.csproj.AssemblyReference.cache
+C:\Users\Teju Reddy\source\repos\MaxandMinUsingGenerics\MaxandMinUsingGenerics\obj\Debug\netcoreapp3.1\MaxandMinUsingGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teju Reddy\source\repos\MaxandMinUsingGenerics\MaxandMinUsingGenerics\obj\Debug\netcoreapp3.1\MaxandMinUsingGenerics.AssemblyInfoInputs.cache
+C:\Users\Teju Reddy\source\repos\MaxandMinUsingGenerics\MaxandMinUsingGenerics\obj\Debug\netcoreapp3.1\MaxandMinUsingGenerics.AssemblyInfo.cs
+C:\Users\Teju Reddy\source\repos\MaxandMinUsingGenerics\MaxandMinUsingGenerics\obj\Debug\netcoreapp3.1\MaxandMinUsingGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Teju Reddy\source\repos\MaxandMinUsingGenerics\MaxandMinUsingGenerics\obj\Debug\netcoreapp3.1\MaxandMinUsingGenerics.dll
+C:\Users\Teju Reddy\source\repos\MaxandMinUsingGenerics\MaxandMinUsingGenerics\obj\Debug\netcoreapp3.1\MaxandMinUsingGenerics.pdb
+C:\Users\Teju Reddy\source\repos\MaxandMinUsingGenerics\MaxandMinUsingGenerics\obj\Debug\netcoreapp3.1\MaxandMinUsingGenerics.genruntimeconfig.cache
